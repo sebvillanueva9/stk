@@ -1,4 +1,4 @@
-To install the packages need please run:
+To install required packages please run:
 
 `pip install -r requirements.txt`
 
